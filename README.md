@@ -13,8 +13,9 @@
 
 
 
-- 🔭 Atualmente eu atrabalho com Front-end,mobile, HelpDesk
-- 🌱 Estudando ReactJs, Expo, entre outros frameworks JS<br/>
+<!--- 🔭 Atualmente eu atrabalho com Front-end,mobile, HelpDesk
+- 🌱 Estudando ReactJs, Expo, entre outros frameworks JS<br/> !-->
+
 <div align="center">
     <a href="mailto:hschiavolin@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
@@ -28,10 +29,10 @@
 <h2 align="center"> Languages-Frameworks-DataBase-Tools </h2>
 <br/>
 
-  <div align="center">
+ <!-- <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=github,javascript" /><br>
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,figma,tailwind,git,angular,firebase,discord,mongodb,nextjs,notion,php,ts,vite,vue" />
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,figma,tailwind,git,angular,firebase,discord,mongodb,nextjs,notion,php,ts,vite,vue" /> !-->
         
     
  </div>
