@@ -1,4 +1,4 @@
-<p align=center><img src="https://media.tenor.com/a6S35wgiCOsAAAAM/deku-java.gif"/></p>
+<p align=center><img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif"/></p>
 
 <div>
    <h1 align="center"?
