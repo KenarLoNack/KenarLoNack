@@ -1,4 +1,4 @@
-<p align=center><img src="https://giphy.com/embed/1C8bHHJturSx2"/></p>
+<p align=center><img src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAC/csharp-cat-programmer.gif"/></p>
 
 <div>
    <h1 align="center"?
