@@ -3,7 +3,7 @@
 <div>
    <h1 align="center"?
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+KenarLoNack!" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Raphael Claudino!" />
     </a>
    </h1>
    <!--<img src="https://visitcount.itsvg.in/api?id=KenarLoNack&label=Profile%20Views&color=2&icon=5&pretty=false" />!-->
